@@ -9,7 +9,7 @@
 
 ## Starterkit
 - [Breeze laravel](https://laravel.com/docs/9.x/starter-kits).
-- [Filament] (https://filamentphp.com/).
+- [Filament](https://filamentphp.com/).
 
 
 ## About Laravel
